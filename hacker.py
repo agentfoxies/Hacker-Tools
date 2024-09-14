@@ -15,7 +15,7 @@ print("4. Info from IP")
 print("5. Track IP")
 print("6. Password Cracker")
 print("7. IP from Discord")
-print("8. Bashir hacker")
+print("8. Enemy hacker")
 print("9. Exit")
 option = input("Option: ")
 if option == "1":
@@ -99,7 +99,7 @@ elif option == "7":
 
 elif option == "8":
     os.system("cls")
-    print("Hacking bashir...")
+    print("Hacking Enemy...")
     time.sleep(10)
     print("Stealing all his money...")
     time.sleep(10)
