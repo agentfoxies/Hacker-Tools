@@ -4,7 +4,7 @@ import requests
 import random
 
 os.system("cls")
-print("Welcome to anomymous bean-time utility. VERSION 3!!!11!")
+print("Welcome to hacker-tools utility made by agentfoxies EDUCATIONAL PURPOSES ONLY")
 pause = input("Press enter to continue... ")
 os.system("cls")
 print("Choose a option:")
